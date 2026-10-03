@@ -1,0 +1,14 @@
+{
+  "source_file": "data/raw/fetal_health.csv",
+  "rows_before_cleaning": 2126,
+  "rows_after_cleaning": 2113,
+  "duplicate_rows_removed": 13,
+  "feature_count": 21,
+  "target_column": "fetal_health",
+  "target_class_counts": {
+    "1.0": 1646,
+    "2.0": 292,
+    "3.0": 175
+  },
+  "random_seed": 42
+}
